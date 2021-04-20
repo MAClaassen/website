@@ -16,6 +16,6 @@ main:
   - name: Conferences
     url: '#featured'
     weight: 60
-  - name: Test
+  - name: Contact
     url: '#contact'
     weight: 70

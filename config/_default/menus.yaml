@@ -6,16 +6,16 @@
 main:
   - name: About
     url: '#about'
-    weight: 10
+    weight: 30
   - name: Posts
     url: '#posts'
-    weight: 20
-  - name: Conferences
-    url: 'conferences/'
-    weight: 30
-  - name: Publications
-    url: 'featured/'
     weight: 40
+  - name: Publications
+    url: '#featured'
+    weight: 50
+  - name: Conferences
+    url: '#featured'
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 70

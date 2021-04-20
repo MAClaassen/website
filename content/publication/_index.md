@@ -6,5 +6,3 @@ header:
 title: Publications
 view: 4
 ---
-
-Test

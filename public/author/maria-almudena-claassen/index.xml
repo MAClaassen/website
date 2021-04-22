@@ -5,26 +5,12 @@
     <link>/author/maria-almudena-claassen/</link>
       <atom:link href="/author/maria-almudena-claassen/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Almudena Claassen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>/author/maria-almudena-claassen/avatar_hu4b0ef8182efffdb65a1acce70edd3715_3115648_270x270_fill_q75_lanczos_center.jpeg</url>
       <title>Maria Almudena Claassen</title>
       <link>/author/maria-almudena-claassen/</link>
     </image>
-    
-    <item>
-      <title>An example preprint / working paper</title>
-      <link>/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/preprint/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
-</description>
-    </item>
     
   </channel>
 </rss>

@@ -15,7 +15,7 @@ publication: '*Appetite, 132*(1)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-01-01T00:00:00Z"
 title: A systematic review of psychosocial explanations for the relationship between socioeconomic status and body mass index
 url_code: "#"
 url_dataset: ""

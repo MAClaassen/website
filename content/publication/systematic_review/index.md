@@ -7,7 +7,7 @@ authors:
 - N. Claes
 - O. Corneille
 date: "2019-01-01T00:00:00Z"
-doi: ""
+doi: "10.1016/j.appet.2018.07.017"
 featured:
 image:
 projects: []
@@ -17,9 +17,9 @@ publication_types:
 - "2"
 publishDate: "2019-01-01T00:00:00Z"
 title: A systematic review of psychosocial explanations for the relationship between socioeconomic status and body mass index
-url_code: "#"
+url_code: ""
 url_dataset: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
+url_pdf: ""
 url_poster: ""
 url_project: ""
 url_slides: ""

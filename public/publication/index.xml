@@ -5,7 +5,7 @@
     <link>/publication/</link>
       <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
@@ -13,18 +13,18 @@
     </image>
     
     <item>
-      <title>A systematic review of psychosocial explanations for the relationship between socioeconomic status and body mass index</title>
-      <link>/publication/systematic_review/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/systematic_review/</guid>
+      <title>The time is ripe - Thinking about the future reduces unhealthy eating in those with a higher BMI</title>
+      <link>/publication/time_perspective/</link>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/time_perspective/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A systematic review of psychosocial explanations for the relationship between socioeconomic status and body mass index</title>
-      <link>/publication/time_perspective/</link>
+      <link>/publication/systematic_review/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/time_perspective/</guid>
+      <guid>/publication/systematic_review/</guid>
       <description></description>
     </item>
     

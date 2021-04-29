@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>M.A. Claassen | Maria Almudena Claassen</title>
-    <link>/author/m.a.-claassen/</link>
-      <atom:link href="/author/m.a.-claassen/index.xml" rel="self" type="application/rss+xml" />
-    <description>M.A. Claassen</description>
+    <title>B.P.I. Chang | Maria Almudena Claassen</title>
+    <link>/author/b.p.i.-chang/</link>
+      <atom:link href="/author/b.p.i.-chang/index.xml" rel="self" type="application/rss+xml" />
+    <description>B.P.I. Chang</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Sep 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
-      <title>M.A. Claassen</title>
-      <link>/author/m.a.-claassen/</link>
+      <title>B.P.I. Chang</title>
+      <link>/author/b.p.i.-chang/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>/publication/time_perspective/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       <guid>/publication/time_perspective/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A systematic review of psychosocial explanations for the relationship between socioeconomic status and body mass index</title>
-      <link>/publication/systematic_review/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/systematic_review/</guid>
       <description></description>
     </item>
     

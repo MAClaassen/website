@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>O. Corneille | Maria Almudena Claassen</title>
-    <link>/author/o.-corneille/</link>
-      <atom:link href="/author/o.-corneille/index.xml" rel="self" type="application/rss+xml" />
-    <description>O. Corneille</description>
+    <title>6 | Maria Almudena Claassen</title>
+    <link>/publication-type/6/</link>
+      <atom:link href="/publication-type/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/media/icon_hube1bed7b2b2e57f5ed8296f954e81800_444644_512x512_fill_lanczos_center_2.png</url>
-      <title>O. Corneille</title>
-      <link>/author/o.-corneille/</link>
+      <title>6</title>
+      <link>/publication-type/6/</link>
     </image>
-    
-    <item>
-      <title>A systematic review of psychosocial explanations for the relationship between socioeconomic status and body mass index</title>
-      <link>/publication/systematic_review/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/systematic_review/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Psychological Consequences of Inequality for Food Intake</title>

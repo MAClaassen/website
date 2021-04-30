@@ -22,16 +22,16 @@ twitter: ''
 
 email: mariaalmudena.claassen@glasgow.ac.uk
 address:
-  street: 450 Serra Mall
-  city: Stanford
+  street: 62 Hillhead Street
+  city: Glasgow
   region: CA
-  postcode: '94305'
+  postcode: 'G12 8QB'
   country: Scotland
 contact_links:
   - icon: twitter
     icon_pack: fab
     name: DM Me
-    link: 'https://twitter.com/Twitter'
+    link: 'https://twitter.com/maclaassen'
 
 # Site header
 

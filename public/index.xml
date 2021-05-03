@@ -33,6 +33,15 @@
     </item>
     
     <item>
+      <title>This is my first post</title>
+      <link>/post/my_first_post/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/my_first_post/</guid>
+      <description>&lt;p&gt;This is just a test post. I will soon add something more relevant.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The time is ripe - Thinking about the future reduces unhealthy eating in those with a higher BMI</title>
       <link>/publication/time_perspective/</link>
       <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
@@ -41,20 +50,22 @@
     </item>
     
     <item>
+      <title>Psychological Consequences of Inequality for Food Intake</title>
+      <link>/publication/bookchapter/</link>
+      <pubDate>Fri, 01 Nov 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/bookchapter/</guid>
+      <description>&lt;p&gt;                     &lt;strong&gt;Editors&lt;/strong&gt;                                        J. Jetten &amp;amp; K. Peters
+&lt;br&gt;
+                     &lt;strong&gt;Publisher&lt;/strong&gt;                                   Springer, Cham.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>A systematic review of psychosocial explanations for the relationship between socioeconomic status and body mass index</title>
       <link>/publication/systematic_review/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>/publication/systematic_review/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Psychological Consequences of Inequality for Food Intake</title>
-      <link>/publication/bookchapter/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/bookchapter/</guid>
-      <description>&lt;p&gt;                     &lt;strong&gt;Editors&lt;/strong&gt; J. Jetten &amp;amp; K. Peters&lt;/p&gt;
-</description>
     </item>
     
     <item>

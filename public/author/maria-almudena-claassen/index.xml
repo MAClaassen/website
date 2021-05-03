@@ -5,12 +5,21 @@
     <link>/author/maria-almudena-claassen/</link>
       <atom:link href="/author/maria-almudena-claassen/index.xml" rel="self" type="application/rss+xml" />
     <description>Maria Almudena Claassen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/author/maria-almudena-claassen/avatar_hu3678ae0964c16b0cd6e9928325d1f93e_239911_270x270_fill_q75_lanczos_center.JPG</url>
       <title>Maria Almudena Claassen</title>
       <link>/author/maria-almudena-claassen/</link>
     </image>
+    
+    <item>
+      <title>This is my first post</title>
+      <link>/post/my_first_post/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/post/my_first_post/</guid>
+      <description>&lt;p&gt;This is just a test post. I will soon add something more relevant.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

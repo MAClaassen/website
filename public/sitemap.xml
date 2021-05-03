@@ -11,10 +11,19 @@
     <loc>/event/</loc>
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/2/</loc>
-    <lastmod>2020-09-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/authors/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/maria-almudena-claassen/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/post/my_first_post/</loc>
+    <lastmod>2021-04-30T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication-type/2/</loc>
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/b.p.i.-chang/</loc>
@@ -36,7 +45,13 @@
     <lastmod>2020-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication-type/6/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/author/o.-corneille/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/publication/bookchapter/</loc>
+    <lastmod>2019-11-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/systematic_review/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
@@ -45,12 +60,6 @@
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/n.-claes/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/author/o.-corneille/</loc>
-    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/publication/bookchapter/</loc>
     <lastmod>2019-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/bratanova_poverty/</loc>
@@ -67,10 +76,6 @@
     <loc>/categories/</loc>
   </url><url>
     <loc>/conferences/</loc>
-  </url><url>
-    <loc>/author/maria-almudena-claassen/</loc>
-  </url><url>
-    <loc>/post/</loc>
   </url><url>
     <loc>/tags/</loc>
   </url>

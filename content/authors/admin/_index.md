@@ -44,7 +44,7 @@ superuser: true
 title: Maria Almudena Claassen
 ---
 
-Hi! I'm Almudena Claassen and I completed my PhD in 2019 at the University libre de Bruxelles in Belgium. Here I examined the influence of socioeconomic status on impulsivity and eating behavior. I joined the Healthy Cognition Lab of the University of Glasgow in 2020 and am now working on an ESRC grant examining the role of consumption and reward simulations in the motivation for sugar-sweetened beverages and water. I use experimental methods and am very passionate about data analysis. 
+Hi! I'm Almudena Claassen and I completed my PhD in 2019 at the Université libre de Bruxelles in Belgium. There I examined the influence of socioeconomic status on impulsivity and eating behavior. I joined the Healthy Cognition Lab of the University of Glasgow in 2020 and am now working on an ESRC grant examining the role of consumption and reward simulations in the motivation for sugar-sweetened beverages and water. I use experimental methods and am  passionate about programming and data analysis. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Claassen.pdf" "newtab" >}}resumé{{< /staticref >}}.

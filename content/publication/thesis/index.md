@@ -7,7 +7,7 @@ doi: ""
 featured:
 image:
 projects: []
-publication: ''
+publication: 'Doctoral thesis'
 publication_short: ""
 publication_types:
 - "7"

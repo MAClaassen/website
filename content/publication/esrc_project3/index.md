@@ -6,11 +6,11 @@ authors:
 - D. Rusz
 - M. Best
 date: "2021-05-01T00:00:00Z"
-doi: "10.31234/osf.io/rkn26"
+doi: "10.1016/j.foodqual.2021.104403"
 featured:
 image:
 projects: []
-publication: ''
+publication: '*Food Quality and Preference, 104403*'
 publication_short: ""
 publication_types:
 - "3"

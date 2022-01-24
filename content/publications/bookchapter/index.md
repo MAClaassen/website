@@ -9,10 +9,9 @@ doi: "10.1007/978-3-030-28856-3_10"
 featured:
 image:
 projects: []
-publication: 'In: Jetten J., Peters K. (eds). The Social Psychology of Inequality. Springer, Cham'
+publications: 'In: Jetten J., Peters K. (eds). The Social Psychology of Inequality. Springer, Cham'
 publication_short: ""
-publication_types:
-- "6"
+publication_types: "6"
 publishDate: "2019-01-01T00:00:00Z"
 title: Psychological Consequences of Inequality for Food Intake
 url_code: ""

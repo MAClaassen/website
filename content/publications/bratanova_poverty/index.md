@@ -13,8 +13,7 @@ image:
 projects: []
 publication: '*Appetite, 100*'
 publication_short: ""
-publication_types:
-- "2"
+publication_types: "2"
 publishDate: "2019-01-01T00:00:00Z"
 title: Poverty, inequality, and increased consumption of high calorie food - Experimental evidence for a causal link
 url_code: ""

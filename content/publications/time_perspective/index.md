@@ -11,8 +11,7 @@ image:
 projects: []
 publication: '*Foods, 1391*'
 publication_short: ""
-publication_types:
-- "2"
+publication_types: ["2"]
 publishDate: "2019-01-01T00:00:00Z"
 title: The time is ripe - Thinking about the future reduces unhealthy eating in those with a higher BMI
 url_code: ""

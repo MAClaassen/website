@@ -1,6 +1,6 @@
 ---
-title: This is my first post
-subtitle:
+title: Participants needed for lab experiment
+subtitle: A study on your thoughts about drinks
 
 # Summary for listings and search engines
 summary:
@@ -35,6 +35,4 @@ tags:
 
 categories:
 ---
-
-This is just a test post. I will soon add something more relevant.
 

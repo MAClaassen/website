@@ -12,7 +12,7 @@ type: page
 
 - 35th Annual Conference European Health Psychology Conference (EHPS), online. Oral presentation: “The role of consumption and reward simulations in the motivation for sugar-sweetened beverages.”
 - British Feeding and Drinking Group conference, online. Oral presentation: "No evidence that consumption and reward simulation words on labels increase the attractiveness of water compared to conventional labels."
-- Society for Personality and Social Psychology conference, online. Poster presentation: “Flavors of desire: Cognitive representations of appetitive stimuli and their motivational applications.”
+- Society for Personality and Social Psychology conference, online. Poster presentation: “Flavours of desire: Cognitive representations of appetitive stimuli and their motivational applications.”
 
 > **2019**
 
@@ -22,14 +22,14 @@ type: page
 
 > **2018**
 
-- 20th Social Cognition Network (ESCON), Cologne, Germany. Oral presentation: “SES and reward impulsivity: Social norms guide behaviors towards money and food.”
-- 32nd European Health Psychology Conference (EHPS), Galway, Ireland. Poster presentation 1: “Social predictors of vegetable consumption and nudging for change.” Poster presentation 2: “Social position and health: Social norms guide impulsive behaviors towards money and food.”
+- 20th Social Cognition Network (ESCON), Cologne, Germany. Oral presentation: “SES and reward impulsivity: Social norms guide behaviours towards money and food.”
+- 32nd European Health Psychology Conference (EHPS), Galway, Ireland. Poster presentation 1: “Social predictors of vegetable consumption and nudging for change.” Poster presentation 2: “Social position and health: Social norms guide impulsive behaviours towards money and food.”
 
 - 8th annual conference Association for Researchers in Psychology and Health (ARPH), Tilburg, The Netherlands. Oral presentation: “SES & Obesity: Determinants of vegetable consumption in a representative Belgian sample.”
 
 > **2017**
 
-- European Association of Social Psychology (EASP), Granada, Spain. Presentation: “Perceived poverty increases reward impulsivity.” Organizer of symposium ”The psychology of inequality: How inequality influences perceptions, motives, and behaviors.”
+- European Association of Social Psychology (EASP), Granada, Spain. Presentation: “Perceived poverty increases reward impulsivity.” Organizer of symposium ”The psychology of inequality: How inequality influences perceptions, motives, and behaviours.”
 - Belgian Association of Psychological Science (BAPS), Brussels, Belgium. Poster presentation: “The influence of relative income on delay discounting of money and food.”
 - 6th annual conference Association for Researchers in Psychology and Health (ARPH), Leiden, The Netherlands. Oral presentation: “Future me wants to be healthy: Thinking about the future reduces snack food intake.”
 
@@ -50,4 +50,4 @@ type: page
 
 > **2014**
 
-- 8e congress de l’Association Francophone de Psychologie de la Sante (AFSPA), Liège, Belgium. Oral presentation: “Money & Food: The influence of economic precarity on eating behaviors.”
+- 8e congres de l’Association Francophone de Psychologie de la Santé (AFSPA), Liège, Belgium. Oral presentation: “Money & Food: The influence of economic precarity on eating behaviours.”

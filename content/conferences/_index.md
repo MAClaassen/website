@@ -10,7 +10,7 @@ type: page
 
 > **2021**
 
-- 35th Annual Conference European Health Psychology Conference (EHPS), online. Oral presentation: “The role of consumption and reward simulations in the motivation for sugar-sweetened beverages.”
+- 35th Anual Confernce European Health Psychology Conference (EHPS), online. Oral presentation: “The role of consumption and reward simulations in the motivation for sugar-sweetened beverages.”
 - British Feeding and Drinking Group conference, online. Oral presentation: "No evidence that consumption and reward simulation words on labels increase the attractiveness of water compared to conventional labels."
 - Society for Personality and Social Psychology conference, online. Poster presentation: “Flavours of desire: Cognitive representations of appetitive stimuli and their motivational applications.”
 

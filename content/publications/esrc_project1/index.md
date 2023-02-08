@@ -6,7 +6,7 @@ authors:
 - D. Rusz
 - M. Best
 date: "2021-05-01T00:00:00Z"
-doi: "https://psycnet.apa.org/doiLanding?doi=10.1037%2Fxge0001157"
+doi: "10.1037/xge0001157"
 featured:
 image:
 projects: []

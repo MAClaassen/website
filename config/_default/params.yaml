@@ -20,18 +20,18 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: mariaalmudena.claassen@glasgow.ac.uk
+email: claassen@mpib-berlin.mpg.de
 address:
-  street: 62 Hillhead Street
-  city: Glasgow
-  region: CA
-  postcode: 'G12 8QB'
-  country: Scotland
+  street: Lentzeallee 94
+  city: Berlin
+  region: 
+  postcode: '14195'
+  country: Germany
 contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: DM Me
-    link: 'https://twitter.com/maclaassen'
+  # - icon: twitter
+  #   icon_pack: fab
+  #   name: DM Me
+  #   link: 'https://twitter.com/maclaassen'
 
 # Site header
 

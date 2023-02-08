@@ -3,7 +3,7 @@ cms_exclude: false
 header:
   caption: ""
   image: ""
-title: Publications
-featured: true
+title: Working papers
 view: 4
+featured: true
 ---

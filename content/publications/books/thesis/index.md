@@ -10,9 +10,9 @@ projects: []
 publication: 'Doctoral thesis'
 publication_short: ""
 publication_types:
-- "7"
+- "6"
 publishDate: "2019-01-01T00:00:00Z"
-title: Relative socioeconomic status and decision-making - An application to eating behaviors
+title: "PhD Thesis: Relative socioeconomic status and decision-making - An application to eating behaviors"
 url_code: ""
 url_dataset: ""
 url_pdf: ""

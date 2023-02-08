@@ -14,8 +14,8 @@ authors:
 - D. Rusz
 - M. Best
 date: "2022-03-01T00:00:00Z"
-doi: ""
-featured:
+doi: "10.1016/bs.aesp.2022.04.002"
+featured: true
 image:
 projects: []
 publication: ''

@@ -14,15 +14,16 @@ education:
   - course: BSc Literary Studies
     institution: Universiteit Utrecht
     year: 2012
-email: mariaalmudena.glasgow.ac.uk
+email: claassen@mpib-berlin.mpg.de
 highlight_name: false
 interests:
-- Health Behavior
-- Psychology of Poverty
-- Data Science
+- Health behavior
+- Decision-making
+- Data science
+- Psychology of poverty
 organizations:
-- name: University of Glasgow
-  url: http://healthycognitionlab.org
+- name: Center for Adaptive Rationality (ARC) Max Planck Institute for Human Development
+  url: https://www.mpib-berlin.mpg.de/research/research-centers/adaptive-rationality
 role: Postdoctoral researcher
 social:
 - icon: envelope
@@ -30,7 +31,10 @@ social:
   link: /#contact
 - display:
     header: false
-  icon: twitter
+- icon: graduation-cap
+  icon_pack: fas
+  link: https://scholar.google.be/citations?hl=en&user=q6vo50EAAAAJ
+- icon: twitter
   icon_pack: fab
   label: Follow me on Twitter
   link: https://twitter.com/maclaassen
@@ -44,7 +48,7 @@ superuser: true
 title: Maria Almudena Claassen
 ---
 
-Hi! I'm Almudena Claassen and I completed my PhD in 2019 at the Université libre de Bruxelles in Belgium. There I examined the influence of socioeconomic status on impulsivity and eating behavior. I joined the Healthy Cognition Lab of the University of Glasgow in 2020 and am now working on an ESRC grant examining the role of consumption and reward simulations in the motivation for sugar-sweetened beverages and water. I use experimental methods and am  passionate about programming and data analysis. 
+Hi! I'm Almudena Claassen and I completed my PhD in 2019 at the Université libre de Bruxelles in Belgium. There I examined the influence of socioeconomic status on impulsivity and eating behavior. I joined the Healthy Cognition Lab of the University of Glasgow in 2020 where I worked on an ESRC grant examining the role of consumption and reward simulations in the motivation for sugar-sweetened beverages and water. I am currently working at the Center for Adaptive Rationality at MPI Berlin where I am researching eating decisions and ways to boost healthier ones. I use experimental methods and am  passionate about programming and data analysis. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/CV_Claassen.pdf" "newtab" >}}resumé{{< /staticref >}}.

@@ -6,7 +6,7 @@ authors:
 - E.K. Papies
 date: "2021-05-01T00:00:00Z"
 doi: "10.1016/j.foodqual.2021.104403"
-featured:
+featured: false
 image:
 projects: []
 publication: '*Food Quality and Preference, 104403*'

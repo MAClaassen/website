@@ -3,7 +3,7 @@ cms_exclude: false
 header:
   caption: ""
   image: ""
-title: Publications
+title: Books
+view: 3
 featured: true
-view: 4
 ---

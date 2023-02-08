@@ -10,11 +10,13 @@ type: page
 
 > **2022**
 
+- 36th Annual Conference European Health Psychology Conference (EHPS), Bratislava, Slovakia. Co-organizer of symposium: “Consumption of sugar-sweetened beverages and water: Discussing health implications of drink choice and potential interventions.” Oral Presentation: “Increasing motivation for bottled water through advertisements.”
+
 > **2021**
 
-- 35th Annual Confernce European Health Psychology Conference (EHPS), online. Oral presentation: “The role of consumption and reward simulations in the motivation for sugar-sweetened beverages.”
-- British Feeding and Drinking Group conference, online. Oral presentation: "No evidence that consumption and reward simulation words on labels increase the attractiveness of water compared to conventional labels."
-- Society for Personality and Social Psychology conference, online. Poster presentation: “Flavours of desire: Cognitive representations of appetitive stimuli and their motivational applications.”
+- 35th Annual Conference European Health Psychology Conference (EHPS), online. Oral presentation: “The role of consumption and reward simulations in the motivation for sugar-sweetened beverages.”
+- British Feeding and Drinking Group conference, online. Oral presentation: “No evidence that consumption and reward simulation words on labels increase the attractiveness of water compared to conventional labels."
+- Society for Personality and Social Psychology conference, online. Poster presentation: “Flavors of desire: Cognitive representations of appetitive stimuli and their motivational applications."
 
 > **2019**
 
@@ -31,7 +33,7 @@ type: page
 
 > **2017**
 
-- European Association of Social Psychology (EASP), Granada, Spain. Presentation: “Perceived poverty increases reward impulsivity.” Organizer of symposium ”The psychology of inequality: How inequality influences perceptions, motives, and behaviours.”
+- European Association of Social Psychology (EASP), Granada, Spain. Presentation: “Perceived poverty increases reward impulsivity.” Organizer of symposium "The psychology of inequality: How inequality influences perceptions, motives, and behaviours.”
 - Belgian Association of Psychological Science (BAPS), Brussels, Belgium. Poster presentation: “The influence of relative income on delay discounting of money and food.”
 - 6th annual conference Association for Researchers in Psychology and Health (ARPH), Leiden, The Netherlands. Oral presentation: “Future me wants to be healthy: Thinking about the future reduces snack food intake.”
 

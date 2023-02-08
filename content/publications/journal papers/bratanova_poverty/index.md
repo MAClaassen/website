@@ -8,7 +8,7 @@ authors:
 - R. Wood
 date: "2016-05-01T00:00:00Z"
 doi: "10.1016/j.appet.2016.01.028"
-featured:
+featured: false
 image:
 projects: []
 publication: '*Appetite, 100*'

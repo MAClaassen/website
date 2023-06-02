@@ -1,5 +1,4 @@
 ---
-abstract: How can we reduce the social gradient in obesity if we do not know what causes it in the first place? This PhD thesis explores underlying explanations of the association between socioeconomic status and eating behaviors. Taking a social psychological approach, this thesis presents the results from a series of empirical studies that test how relative socioeconomic status affects decision-making. In particular, it examines how perceptions of one’s relative status affects impulsivity, and how someone else’s relative status influences beliefs about that person’s impulsivity. Together, these findings reveal both the existence and accuracy of impulsivity stereotypes. The findings suggest that (adherence to) these stereotypical behaviors are malleable and can be used in health interventions aimed at reducing health gradients.
 authors:
 - M.A. Claassen
 date: "2019-06-01T00:00:00Z"
@@ -22,5 +21,7 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+
+How can we reduce the social gradient in obesity if we do not know what causes it in the first place? This PhD thesis explores underlying explanations of the association between socioeconomic status and eating behaviors. Taking a social psychological approach, this thesis presents the results from a series of empirical studies that test how relative socioeconomic status affects decision-making. In particular, it examines how perceptions of one’s relative status affects impulsivity, and how someone else’s relative status influences beliefs about that person’s impulsivity. Together, these findings reveal both the existence and accuracy of impulsivity stereotypes. The findings suggest that (adherence to) these stereotypical behaviors are malleable and can be used in health interventions aimed at reducing health gradients.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Supervisors** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O. Klein & O. Corneille 

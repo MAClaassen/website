@@ -4,6 +4,6 @@ header:
   caption: ""
   image: ""
 title: Books
-view: 3
+view: 4
 featured: true
 ---

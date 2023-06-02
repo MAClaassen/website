@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../../github.com/wowchemy/wowchemy-hugo-modules/wowchemy/assets/*"
+   ]
+  }
+ }
+}

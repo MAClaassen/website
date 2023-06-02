@@ -1,5 +1,4 @@
 ---
-abstract: A negative association between socioeconomic status (SES) and levels of overweight/obesity is consistently found in high- and middle-income countries. Yet, there is little conclusive evidence about the mechanisms driving this association. In this systematic review, we discuss and compare the results of 22 studies that examine the role of psychosocial mediators in the association between SES and BMI in diverse population samples. These include factors related to resources and constraints in one's external neighborhood, social resources, and psychological factors such as stress. The findings support theoretical models indicating that SES is related to BMI partially through environmental and psychological factors. Importantly, SES often remains a significant predictor of weight status, indicating the importance of also addressing structural antecedents in order to improve health among lower SES populations. We thoroughly discuss the quality and limitations of current study designs and mediation testing and provide recommendations for future research.
 authors:
 - M.A. Claassen
 - O. Klein 
@@ -26,3 +25,5 @@ url_slides: ""
 url_source: ""
 url_video: ""
 ---
+
+A negative association between socioeconomic status (SES) and levels of overweight/obesity is consistently found in high- and middle-income countries. Yet, there is little conclusive evidence about the mechanisms driving this association. In this systematic review, we discuss and compare the results of 22 studies that examine the role of psychosocial mediators in the association between SES and BMI in diverse population samples. These include factors related to resources and constraints in one's external neighborhood, social resources, and psychological factors such as stress. The findings support theoretical models indicating that SES is related to BMI partially through environmental and psychological factors. Importantly, SES often remains a significant predictor of weight status, indicating the importance of also addressing structural antecedents in order to improve health among lower SES populations. We thoroughly discuss the quality and limitations of current study designs and mediation testing and provide recommendations for future research.

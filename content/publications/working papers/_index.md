@@ -4,6 +4,7 @@ header:
   caption: ""
   image: ""
 title: Working papers
-view: 4
+view: 1
 featured: true
+
 ---

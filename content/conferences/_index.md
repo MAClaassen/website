@@ -8,6 +8,11 @@ type: page
 
 ### I presented at the following conferences:
 
+> **2023**
+
+- 37th Annual Conference European Health Psychology Conference (EHPS), Bremen, Germany. Oral Presentation: “Associations between beverage consumption, hydration status and carbon footprint.”
+- 47th SABE-IAREP Conference, Nice, France. Poster presentation: "Less is more. Increased consumption despite fewer occasions: A longitudinal analysis of COVID-19 lockdown effects on soft drink consumption in England."
+
 > **2022**
 
 - 36th Annual Conference European Health Psychology Conference (EHPS), Bratislava, Slovakia. Co-organizer of symposium: “Consumption of sugar-sweetened beverages and water: Discussing health implications of drink choice and potential interventions.” Oral Presentation: “Increasing motivation for bottled water through advertisements.”

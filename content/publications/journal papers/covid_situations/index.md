@@ -11,7 +11,7 @@ projects: []
 publication: '*Appetite, 106579*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2023-08-01T00:00:00Z"
 title: Increased consumption despite fewer occasions - A longitudinal analysis of COVID-19 lockdown effects on soft drink consumption in England
 url_code: ""

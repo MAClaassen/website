@@ -11,7 +11,7 @@ projects: []
 publication: '*PNAS, 120 (23) e2215572120*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2023-05-30T00:00:00Z"
 title: Competition and moral behavior -  A meta-analysis of forty-five crowd-sourced experimental designs
 url_code: ""

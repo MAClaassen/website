@@ -19,8 +19,8 @@ image:
 projects: []
 publication: ''
 publication_short: ""
-publication-type: "2"
-publication_types: "3"
+#publication-type: "2"
+publication_types: "2"
 publishDate: "2022-03-01T00:00:00Z"
 title: Grounding Motivation for Behaviour Change
 url_code: ""

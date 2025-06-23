@@ -8,6 +8,10 @@ type: page
 
 ### I presented at the following conferences:
 
+> **2025**
+
+- SABE 2025 Annual Conference, Nice, France. Oral presentation: "Boosting healthy food choices with simple heuristics."
+
 > **2023**
 
 - 37th Annual Conference European Health Psychology Conference (EHPS), Bremen, Germany. Oral Presentation: “Associations between beverage consumption, hydration status and carbon footprint.”

@@ -11,7 +11,7 @@ projects: []
 publication: '*Social Influence, 2261178*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2023-08-01T00:00:00Z"
 title: I’ll have what they’re having - a descriptive social norm increases choice for vegetables in students
 url_code: ""

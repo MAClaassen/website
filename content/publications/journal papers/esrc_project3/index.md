@@ -11,7 +11,7 @@ projects: []
 publication: '*Food Quality and Preference, 104403*'
 publication_short: ""
 publication_types:
-- "3"
+- "2"
 publishDate: "2019-01-01T00:00:00Z"
 title: No evidence that consumption and reward words on labels increase the appeal of water
 url_code: ""
